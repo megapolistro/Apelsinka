@@ -1,1 +1,10 @@
+lsi: false
+safe: true
 theme: jekyll-theme-cayman
+lang: ru-RU
+show_downloads: false
+gist:
+  noscript: false
+sass:
+  compress: true
+  sass_dir: 'assets/css'
