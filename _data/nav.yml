@@ -1,11 +1,11 @@
 - title: "Главная"
-  href: "/Apelsinka/"
+  href: "/"
 
 - title: "О студии"
-  href: "/Apelsinka/info/"
+  href: "/info/"
 
 - title: "Расписние"
   href: "http://docs.google.com/"
 
 - title: "Контакты"
-  href: "/Apelsinka/contacts/"
+  href: "/contacts/"

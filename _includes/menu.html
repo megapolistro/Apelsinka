@@ -2,9 +2,9 @@
     <ul id="ul_top_links">
         {% for nav in site.data.nav %}
         {% if nav.title == page.title %}
-        <li class="active" id="li_top_links"><a href="{{ nav.href }}">{{ nav.title }}</a></li>
+        <li class="active" id="li_top_links"><a href="{{ nav.href | relative_url }}">{{ nav.title }}</a></li>
         {% else %}
-        <li id="li_top_links"><a href="{{ nav.href }}">{{ nav.title }}</a></li>
+        <li id="li_top_links"><a href="{{ nav.href | relative_url }}">{{ nav.title }}</a></li>
         {% endif %}
         {% endfor %}
     </ul>
