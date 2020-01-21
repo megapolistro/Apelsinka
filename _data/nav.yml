@@ -2,10 +2,10 @@
   href: "/"
 
 - title: "О студии"
-  href: "/info/"
+  href: "/info"
 
 - title: "Расписние"
-  href: "http://docs.google.com/"
+  href: "https://calendar.google.com/calendar/embed?src=YXJ0aHVyLnJ1X3VqMjYya21sYW4zMW1hNjU4aGd0MGVxMDlrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"
 
 - title: "Контакты"
-  href: "/contacts/"
+  href: "/contacts"
