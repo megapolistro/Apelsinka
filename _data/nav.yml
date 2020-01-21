@@ -1,5 +1,11 @@
-- title: "home"
+- title: "Главная"
   href: "/"
 
-- title: "blog"
-  href: "/blog/"
+- title: "О студии"
+  href: "/info/"
+
+- title: "Расписние"
+  href: "http://docs.google.com/"
+
+- title: "Контакты"
+  href: "/contacts/"
