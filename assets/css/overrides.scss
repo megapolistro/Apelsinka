@@ -2,12 +2,18 @@ body    {overflow-y:scroll;}
 
 #div_top_links {
     display:inline;
+    padding-inline-start: 0px;
 }
+#div_top_links ul {
+    padding-left: 0px;
+}
+
 #ul_top_links li{
-    display: inline;
+    display: inline-block;
     background-color: #15995785;
     font-weight: bold;
     padding: 5pt;
+    margin-bottom: 1pt;
     border: 1px solid #159957;
     border-radius: 5%;
 }
