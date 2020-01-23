@@ -1,11 +1,15 @@
+body    {overflow-y:scroll;}
+
 #div_top_links {
     display:inline;
-    background-color: #FFFFFF;
 }
 #ul_top_links li{
     display: inline;
-    background-color: #999999;
+    background-color: #15995785;
+    font-weight: bold;
     padding: 5pt;
+    border: 1px solid #159957;
+    border-radius: 5%;
 }
 
 #li_top_links a {
@@ -13,9 +17,7 @@
 }
 
 #ul_top_links .active {
-    color: #FFFFFF;
-    font-weight: bold;
-    background-color: #EEEEEE;
+    background-color: #159957;
 }
 
 .callout {
