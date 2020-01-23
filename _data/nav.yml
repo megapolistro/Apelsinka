@@ -1,11 +1,17 @@
 - title: "Главная"
   href: "/"
 
-- title: "О студии"
-  href: "/info"
+- title: "Направления"
+  href: "/courses"
 
-- title: "Расписние"
-  href: "https://calendar.google.com/calendar/embed?src=YXJ0aHVyLnJ1X3VqMjYya21sYW4zMW1hNjU4aGd0MGVxMDlrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20"
+- title: "Преподаватели"
+  href: "/teachers"
+
+- title: "Расписание"
+  href: "/schedules"
+
+- title: "Цены"
+  href: "/prices"
 
 - title: "Контакты"
   href: "/contacts"
