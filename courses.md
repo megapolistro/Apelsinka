@@ -8,74 +8,71 @@ title: Направления
 
 Краткое описание
 
-* ### [СПОРТИВНЫЕ БАЛЬНЫЕ ТАНЦЫ]
+* ### [СПОРТИВНЫЕ БАЛЬНЫЕ ТАНЦЫ]({{ site.baseurl }}/courses/ballroom_dancing)
 
 Краткое описание
 
-### [АРГЕНТИНСКОЕ ТАНГО]
+* ### [АРГЕНТИНСКОЕ ТАНГО]({{ site.baseurl }}/courses/tango)
+
 
 Краткое описание
 
-### [КЛАССИЧЕСКИЙ ТАНЕЦ]
+* ### [КЛАССИЧЕСКИЙ ТАНЕЦ]({{ site.baseurl }}/courses/classic_dance)
+
 
 Краткое описание
 
-### [НАРОДНЫЙ ТАНЕЦ]
+* ### [НАРОДНЫЙ ТАНЕЦ]({{ site.baseurl }}/courses/country_dance)
+
 
 Краткое описание
 
-### [ТАНЦЫ НАРОДОВ КАВКАЗА, ЛЕЗГИНКА]
+* ### [ТАНЦЫ НАРОДОВ КАВКАЗА, ЛЕЗГИНКА]({{ site.baseurl }}/courses/lezginka)
+
 
 Краткое описание
 
-### [ИРЛАНДСКИЙ ТАНЕЦ]
+* ### [ИРЛАНДСКИЙ ТАНЕЦ]({{ site.baseurl }}/courses/irish_dance)
+
 
 Краткое описание
 
-### [КИЗОМБА]
+* ### [КИЗОМБА]({{ site.baseurl }}/courses/kizomba)
 
 Краткое описание
 
-### [ДЖАЗ-МОДЕРН]
+* ### [ДЖАЗ-МОДЕРН]({{ site.baseurl }}/courses/jazz_modern)
 
 Краткое описание
 
-### [КОНТЕМПОРАРИ]
+* ### [КОНТЕМПОРАРИ]({{ site.baseurl }}/courses/contemporary_dance)
 
 Краткое описание
 
-### [ХИП-ХОП]
+* ### [ХИП-ХОП]({{ site.baseurl }}/courses/hip_hop)
 
 Краткое описание
 
-### [МИКС-ДАНС]
+* ### [МИКС-ДАНС]({{ site.baseurl }}/courses/mix_dance)
 
 Краткое описание
 
-### [СТРЕТЧИНГ]
+* ### [СТРЕТЧИНГ]({{ site.baseurl }}/courses/stratching)
 
 Краткое описание
 
-### [СВАДЕБНЫЙ ТАНЕЦ]
+* ### [СВАДЕБНЫЙ ТАНЕЦ]({{ site.baseurl }}/courses/wedding_dance)
 
 Краткое описание
 
-### [ПОСТАНОВКА ТАНЦА]
+* ### [ПОСТАНОВКА ТАНЦА]({{ site.baseurl }}/courses/dance_make)
 
 Краткое описание
 
-### [ЙОГА]
+* ### [ЙОГА]({{ site.baseurl }}/courses/yoga)
 
 Краткое описание
 
-### [АЙКИДО]
+* ### [АЙКИДО]({{ site.baseurl }}/courses/aikido)
 
 Краткое описание
-
-### [Баскетбол]({{ site.baseurl }}/courses/basketball)
-
-![Баскетбол]({{ site.baseurl }}/images/courses/basketball.png){: .callout }  Is post each that just leaf no. He connection interested so we an sympathize advantages. To said is it shed want do. Occasional middletons everything so to. Have spot part for his quit may. Enable it is square my an regard. Often merit stuff first oh up hills as he. Servants contempt as although addition dashwood is procured. Interest in yourself an do of numerous feelings cheerful confined. [>>>>>>]({{ site.baseurl }}/courses/basketball)
-
-### [Джиу-джицу]({{ site.baseurl }}/courses/jujutsu)
-
-![Джиу-джицу]({{ site.baseurl }}/images/courses/jujutsu.png){: .callout } Is post each that just leaf no. He connection interested so we an sympathize advantages. To said is it shed want do. Occasional middletons everything so to. Have spot part for his quit may. Enable it is square my an regard. Often merit stuff first oh up hills as he. Servants contempt as although addition dashwood is procured. Interest in yourself an do of numerous feelings cheerful confined. [>>>>>>]({{ site.baseurl }}/courses/jujutsu)
