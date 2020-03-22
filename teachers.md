@@ -4,14 +4,21 @@ title: Преподаватели
 
 ## Наши преподаватели
 
-### А.Ануфриев
+### АЛЕКСАНДР АНУФРИЕВ
 
-![А.Ануфриев](https://randomuser.me/api/portraits/men/14.jpg){: .callout }  Is post each that just leaf no. He connection interested so we an sympathize advantages. To said is it shed want do. Occasional middletons everything so to. Have spot part for his quit may. Enable it is square my an regard. Often merit stuff first oh up hills as he. Servants contempt as although addition dashwood is procured. Interest in yourself an do of numerous feelings cheerful confined. 
+Профессиональный танцор,  МС по спортивным бальным танцам (S класс латиноамериканская программа, B класс европейская программа), победитель, призер и финалист турниров по бальным танцам в России и за границей. Неоднократно участвовал в шоу Ataka@Alemana с парной бачатой, посещал мастер-классы многих звезд по бачате и сальсе. Соорганизатор Red Night Fest 2018.
 
-### А. Шарафиев
+Ведет занятия по направлениям: КЛУБНАЯ ЛАТИНА (САЛЬСА, БАЧАТА), КИЗОМБА, АРГЕНТИНСКОЕ ТАНГО, СПОРТИВНЫЕ БАЛЬНЫЕ ТАНЦЫ (ЕВРОПЕЙСКАЯ И ЛАТИНОАМЕРИКАНСКАЯ ПРОГРАММЫ), ХИП-ХОП, СВАДЕБНЫЙ ТАНЕЦ, ПОСТАНОВКА ТАНЦА.
 
-![А. Шарафиев](https://randomuser.me/api/portraits/men/15.jpg){: .callout } Is post each that just leaf no. He connection interested so we an sympathize advantages. To said is it shed want do. Occasional middletons everything so to. Have spot part for his quit may. Enable it is square my an regard. Often merit stuff first oh up hills as he. Servants contempt as although addition dashwood is procured. Interest in yourself an do of numerous feelings cheerful confined.
+### АЗАМАТ ШАРАФИЕВ
 
-### А. Иванова
+Артист балета МГАТ "Русские сезоны" Н. Н. Андросова, артист театра русского фольклора Н.Г. Бабкиной. Участник AMERICA BEST DANCE CREW (США 2017). Педагог Московского городского творческого коллектива «Хореографический ансамбль Дружба». Педагог-репетитор Образцового ансамбля народного танца "Топотушки"
 
-![А. Иванова](https://randomuser.me/api/portraits/women/14.jpg){: .callout } Is post each that just leaf no. He connection interested so we an sympathize advantages. To said is it shed want do. Occasional middletons everything so to. Have spot part for his quit may. Enable it is square my an regard. Often merit stuff first oh up hills as he. Servants contempt as although addition dashwood is procured. Interest in yourself an do of numerous feelings cheerful confined. 
+Имеет статус почетного жюри и педагога высшей квалификационной категории.
+
+Ведет занятия по направлениям: КЛАССИЧЕСКИЙ ТАНЕЦ, НАРОДНЫЙ ТАНЕЦ, ИРЛАНДСКИЙ ТАНЕЦ, ТАНЦЫ НАРОДОВ КАВКАЗА, ЛЕЗГИНКА, СТРЕТЧИНГ (РАСТЯЖКА), MIX-DANCE, ДЖАЗ-МОДЕРН, КОНТЕМПОРАРИ, АКРОБАТИКА, ПОСТАНОВКА ТАНЦА.
+ 
+### АНДРЕЙ НОВИКОВ
+
+Инструктор Айкидо. Образование высшее (Московский Институт Физической Культуры и Спорта), изучал у-шу, сёриндзи кэмпо, айкидо. Черный пояс (1 дан) по направлению «реальное айкидо», стаж занятий айкидо 12 лет, стаж инструкторской деятельности 7 лет (сертификат Центра Развития Айкидо, 2013г). Член международной организации «Сёриндзи кэмпо». Участвовал в российских и международных семинарах под руководством ведущих мастеров боевых искусств России и Японии. Удостоен благодарности за вклад в развитие физической культуры и спорта г. Троицк, благодарности Департамента образования г. Москвы за вклад в воспитание подрастающего поколения. В преподавании использует технику различных направлений единоборств и собственные наработки, дополняющие технику айкидо.Виды тренировок: РЕАЛ АЙКИДО (групповые, индивидуальные) для детей от 5 лет и взрослых (без ограничения в возрасте), САМОЗАЩИТА, ОФП (индивидуальные).
+ 
