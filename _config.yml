@@ -6,4 +6,4 @@ sass:
   compress: true
   sass_dir: 'assets/css'
 
-baseurl: "/Apelsinka"
+#baseurl: "/"
