@@ -37,3 +37,6 @@ title: Направления
 * ### [ЙОГА]({{ site.baseurl }}/courses/yoga)
 
 * ### [АЙКИДО]({{ site.baseurl }}/courses/aikido)
+
+* ### [ИНДИВИДУАЛЬНЫЕ ЗАНЯТИЯ]({{ site.baseurl }}/courses/personal)
+
