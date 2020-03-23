@@ -4,39 +4,39 @@ title: Направления
 
 ## Наши направления
 
-* ### [КЛУБНАЯ ЛАТИНА (САЛЬСА, БАЧАТА)]({{ site.baseurl }}/courses/latina)
+* ### [КЛУБНАЯ ЛАТИНА (САЛЬСА, БАЧАТА)](/courses/latina)
 
-* ### [СПОРТИВНЫЕ БАЛЬНЫЕ ТАНЦЫ]({{ site.baseurl }}/courses/ballroom_dancing)
+* ### [СПОРТИВНЫЕ БАЛЬНЫЕ ТАНЦЫ](/courses/ballroom_dancing)
 
-* ### [АРГЕНТИНСКОЕ ТАНГО]({{ site.baseurl }}/courses/tango)
+* ### [АРГЕНТИНСКОЕ ТАНГО](/courses/tango)
 
-* ### [КЛАССИЧЕСКИЙ ТАНЕЦ]({{ site.baseurl }}/courses/classic_dance)
+* ### [КЛАССИЧЕСКИЙ ТАНЕЦ](/courses/classic_dance)
 
-* ### [НАРОДНЫЙ ТАНЕЦ]({{ site.baseurl }}/courses/country_dance)
+* ### [НАРОДНЫЙ ТАНЕЦ](/courses/country_dance)
 
-* ### [ТАНЦЫ НАРОДОВ КАВКАЗА, ЛЕЗГИНКА]({{ site.baseurl }}/courses/lezginka)
+* ### [ТАНЦЫ НАРОДОВ КАВКАЗА, ЛЕЗГИНКА](/courses/lezginka)
 
-* ### [ИРЛАНДСКИЙ ТАНЕЦ]({{ site.baseurl }}/courses/irish_dance)
+* ### [ИРЛАНДСКИЙ ТАНЕЦ](/courses/irish_dance)
 
-* ### [КИЗОМБА]({{ site.baseurl }}/courses/kizomba)
+* ### [КИЗОМБА](/courses/kizomba)
 
-* ### [ДЖАЗ-МОДЕРН]({{ site.baseurl }}/courses/jazz_modern)
+* ### [ДЖАЗ-МОДЕРН](/courses/jazz_modern)
 
-* ### [КОНТЕМПОРАРИ]({{ site.baseurl }}/courses/contemporary_dance)
+* ### [КОНТЕМПОРАРИ](/courses/contemporary_dance)
 
-* ### [ХИП-ХОП]({{ site.baseurl }}/courses/hip_hop)
+* ### [ХИП-ХОП](/courses/hip_hop)
 
-* ### [МИКС-ДАНС]({{ site.baseurl }}/courses/mix_dance)
+* ### [МИКС-ДАНС](/courses/mix_dance)
 
-* ### [СТРЕТЧИНГ]({{ site.baseurl }}/courses/stratching)
+* ### [СТРЕТЧИНГ](/courses/stratching)
 
-* ### [СВАДЕБНЫЙ ТАНЕЦ]({{ site.baseurl }}/courses/wedding_dance)
+* ### [СВАДЕБНЫЙ ТАНЕЦ](/courses/wedding_dance)
 
-* ### [ПОСТАНОВКА ТАНЦА]({{ site.baseurl }}/courses/dance_make)
+* ### [ПОСТАНОВКА ТАНЦА](/courses/dance_make)
 
-* ### [ЙОГА]({{ site.baseurl }}/courses/yoga)
+* ### [ЙОГА](/courses/yoga)
 
-* ### [АЙКИДО]({{ site.baseurl }}/courses/aikido)
+* ### [АЙКИДО](/courses/aikido)
 
-* ### [ИНДИВИДУАЛЬНЫЕ ЗАНЯТИЯ]({{ site.baseurl }}/courses/personal)
+* ### [ИНДИВИДУАЛЬНЫЕ ЗАНЯТИЯ](/courses/personal)
 
