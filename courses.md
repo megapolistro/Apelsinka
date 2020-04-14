@@ -4,39 +4,39 @@ title: Направления
 
 ## Наши направления
 
-* ### [КЛУБНАЯ ЛАТИНА (САЛЬСА, БАЧАТА)](/courses/latina)
+* [КЛУБНАЯ ЛАТИНА (САЛЬСА, БАЧАТА)](/courses/latina)
 
-* ### [СПОРТИВНЫЕ БАЛЬНЫЕ ТАНЦЫ](/courses/ballroom_dancing)
+* [СПОРТИВНЫЕ БАЛЬНЫЕ ТАНЦЫ](/courses/ballroom_dancing)
 
-* ### [АРГЕНТИНСКОЕ ТАНГО](/courses/tango)
+* [АРГЕНТИНСКОЕ ТАНГО](/courses/tango)
 
-* ### [КЛАССИЧЕСКИЙ ТАНЕЦ](/courses/classic_dance)
+* [КЛАССИЧЕСКИЙ ТАНЕЦ](/courses/classic_dance)
 
-* ### [НАРОДНЫЙ ТАНЕЦ](/courses/country_dance)
+* [НАРОДНЫЙ ТАНЕЦ](/courses/country_dance)
 
-* ### [ТАНЦЫ НАРОДОВ КАВКАЗА, ЛЕЗГИНКА](/courses/lezginka)
+* [ТАНЦЫ НАРОДОВ КАВКАЗА, ЛЕЗГИНКА](/courses/lezginka)
 
-* ### [ИРЛАНДСКИЙ ТАНЕЦ](/courses/irish_dance)
+* [ИРЛАНДСКИЙ ТАНЕЦ](/courses/irish_dance)
 
-* ### [КИЗОМБА](/courses/kizomba)
+* [КИЗОМБА](/courses/kizomba)
 
-* ### [ДЖАЗ-МОДЕРН](/courses/jazz_modern)
+* [ДЖАЗ-МОДЕРН](/courses/jazz_modern)
 
-* ### [КОНТЕМПОРАРИ](/courses/contemporary_dance)
+* [КОНТЕМПОРАРИ](/courses/contemporary_dance)
 
-* ### [ХИП-ХОП](/courses/hip_hop)
+* [ХИП-ХОП](/courses/hip_hop)
 
-* ### [МИКС-ДАНС](/courses/mix_dance)
+* [МИКС-ДАНС](/courses/mix_dance)
 
-* ### [СТРЕТЧИНГ](/courses/stratching)
+* [СТРЕТЧИНГ](/courses/stratching)
 
-* ### [СВАДЕБНЫЙ ТАНЕЦ](/courses/wedding_dance)
+* [СВАДЕБНЫЙ ТАНЕЦ](/courses/wedding_dance)
 
-* ### [ПОСТАНОВКА ТАНЦА](/courses/dance_make)
+* [ПОСТАНОВКА ТАНЦА](/courses/dance_make)
 
-* ### [ЙОГА](/courses/yoga)
+* [ЙОГА](/courses/yoga)
 
-* ### [АЙКИДО](/courses/aikido)
+* [АЙКИДО](/courses/aikido)
 
-* ### [ИНДИВИДУАЛЬНЫЕ ЗАНЯТИЯ](/courses/personal)
+* [ИНДИВИДУАЛЬНЫЕ ЗАНЯТИЯ](/courses/personal)
 
