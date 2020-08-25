@@ -21,16 +21,12 @@
   </head>
   <body>
       <header class="page-header" role="banner">
-<!--       <h1 class="project-name">{{ site.title }}</h1>
-      <h2 class="project-tagline">{{ site.description }}</h2> -->
-        <h1 class="project-name">.</h1>
-      <h2 class="project-tagline">.</h2>
-        <h2 class="project-tagline">.</h2>
-<!--       {% include menu.html %} -->
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
+      {% include menu.html %}
     </header>
 
     <main id="content" class="main-content" role="main">
-      {% include menu.html %}
       {{ content }}
 
       <footer class="site-footer">      
