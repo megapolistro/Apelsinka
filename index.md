@@ -2,8 +2,7 @@
 title: Главная
 ---
 
-## МЕГАПОЛИС
-## Студия танца и фитнеса 
+## МЕГАПОЛИС. Студия танца и фитнеса 
 
 Приглашаем детей (5+) и взрослых на занятия в студию!
 
@@ -31,7 +30,7 @@ title: Главная
 
 ![Карта](images/transfer.png "Карта")
 
-### Мы в социальных сетеях
+### Мы в социальных сетях
 
 [![Instagram](images/instagram.png "Instagram")](http://instagram.com/megapolistro/)
 [![WhatsApp](images/whatsapp.png "WhatsApp")](https://api.whatsapp.com/send?phone=79684046788)
