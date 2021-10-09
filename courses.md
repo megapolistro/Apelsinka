@@ -26,6 +26,8 @@ title: Направления
 
 * [ХИП-ХОП](/courses/hip_hop)
 
+* [ХАУС](/courses/haus)
+
 * [МИКС-ДЭНС](/courses/mix_dance)
 
 * [СТРЕТЧИНГ](/courses/stratching)
