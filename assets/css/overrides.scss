@@ -18,12 +18,15 @@ body    {overflow-y:scroll;}
     border-radius: 5%;
 }
 
-#ul_headertop_links li{
-    display: inline-block;
+#ul_headertop_links {
     margin-block-start: 0px;
     margin-block-end: 0px;
     margin-top: 0px;
     margin-bottom: 0px;
+}
+
+#ul_headertop_links li{
+    display: inline-block;
 }
 
 #li_top_links a {
