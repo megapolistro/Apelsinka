@@ -18,13 +18,23 @@ body    {overflow-y:scroll;}
     border-radius: 5%;
 }
 
+#ul_headertop_links li{
+    display: inline-block;
+    font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+}
+
 #li_top_links a {
     color: #FFFFFF;
 }
 
 #li_headertop_links a {
     list-style-type: none;
-    display: inline;
 }
 
 #ul_top_links .active {
