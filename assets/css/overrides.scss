@@ -26,31 +26,6 @@ body    {overflow-y:scroll;}
     color: #FFFFFF;
 }
 
-#li_headertop_links a {
-    list-style-type: none;
-    
-    position: static;
-width: 238px;
-height: 27px;
-left: 34px;
-top: 0px;
-
-font-family: Open Sans;
-font-style: normal;
-font-weight: normal;
-font-size: 20px;
-line-height: 27px;
-
-color: #000000;
-
-
-/* Inside auto layout */
-flex: none;
-order: 1;
-flex-grow: 0;
-margin: 0px 10px;
-}
-
 #ul_top_links .active {
     background-color: #159957;
 }
