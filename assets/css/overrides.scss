@@ -73,6 +73,7 @@ body    {overflow-y:scroll;}
 .page-header {
     background-image: url("../../images/rosecity.jpg");
     background-size: cover;
+    padding: 3rem 6rem;
 }
 
 .page-top-header {
@@ -110,8 +111,10 @@ body    {overflow-y:scroll;}
 
 .page-header-left {
     display: inline-block;
+    height: 160pt;
 }
 
 .page-header-right {
     display: inline-block;
+    vertical-align: bottom;
 }
