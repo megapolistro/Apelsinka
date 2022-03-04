@@ -8,28 +8,6 @@ body    {overflow-y:scroll;}
     padding-left: 0px;
 }
 
-#ul_top_links li{
-    display: inline-block;
-    background-color: #15995785;
-    font-weight: bold;
-    padding: 5pt;
-    margin-bottom: 1pt;
-    border: 1px solid #159957;
-    border-radius: 5%;
-}
-
-#ul_headertop_links {
-    margin-block-start: 0px;
-    margin-block-end: 0px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-}
-
-#ul_headertop_links li{
-    display: inline-block;
-    vertical-align: middle;
-}
-
 #li_top_links a {
     color: #FFFFFF;
 }
@@ -96,4 +74,31 @@ body    {overflow-y:scroll;}
 
 .page-nav {
     text-align: center;
+}
+
+
+#ul_top_links li{
+    display: inline-block;
+    background-color: #15995785;
+    font-weight: bold;
+    padding: 5pt;
+    margin-bottom: 1pt;
+    border: 1px solid #159957;
+    border-radius: 5%;
+}
+
+#ul_headertop_links {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#ul_headertop_links li{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#li_headertop_links a {
+    color: #000000;
 }
