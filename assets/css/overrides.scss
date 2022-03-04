@@ -23,7 +23,8 @@ body    {overflow-y:scroll;}
 }
 
 #li_headertop_links a {
-    color: #FFFFFF;
+    list-style-type: none;
+    display: inline;
 }
 
 #ul_top_links .active {
