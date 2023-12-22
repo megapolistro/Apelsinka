@@ -3,6 +3,6 @@
 title: Расписание
 ---
 
-### **[Актуальное расписание](https://vk.com/megapolis_tro)**
+### **[Актуальное расписание тут](https://vk.com/megapolis_tro)**
 
  
